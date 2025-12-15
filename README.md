@@ -543,6 +543,3 @@ This is a demonstration project for learning Pact contract testing.
 ---
 
 **Need Help?** Check the troubleshooting section or open an issue on GitHub.
-
-#   C o n t r a c t T e s t i n g W i t h P a c t  
- 
